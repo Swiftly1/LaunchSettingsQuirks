@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LaunchSettingsQuirks": {
+      "commandName": "Project",
+      "commandLineArgs": "--test"
+    }
+  }
+}
